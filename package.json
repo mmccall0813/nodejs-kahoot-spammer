@@ -1,0 +1,16 @@
+{
+  "name": "spamkahoot",
+  "version": "0.0.1",
+  "description": "kahoo spam",
+  "main": "server.js",
+  "scripts": {
+    "start": ""
+  },
+  "dependencies": {
+    "kahoot.js-updated": "^1.1.6",
+    "fetch": "^1.1.0"
+  },
+  "engines": {
+    "node": "8.x"
+  }
+}
